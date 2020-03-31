@@ -26,6 +26,8 @@ body{
     margin: auto;
 }
 h1{
-    font-family: 'Spicy Rice', cursive;
-    color: black;
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-family: 'Playfair Display', serif;
 }
