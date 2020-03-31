@@ -8,7 +8,7 @@ body{
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url("/images.jpg");
+    background-image: url("descargar.jpg");
 }
 
 .cuadro{
